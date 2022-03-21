@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antanasvytuvis
-- 👀 I’m interested in IT, Linux, coding and troubleshooting.   
+- 👀 I’m interested in IT, Linux, 3d modeling, coding and troubleshooting.   
 - 🌱 I’m currently studying for the CompTIA trifecta and learning everything Linux.
 - 📫 My email is antanasvytuvis at gmail
 

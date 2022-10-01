@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antanasvytuvis
-- 👀 I’m interested in IT, Linux, 3d modeling, coding and troubleshooting.   
-- 🌱 I’m currently studying for the CompTIA trifecta and learning everything Linux.
-- 📫 My email is antanasvytuvis at gmail
+- 👀 I’m interested in IT, AV, 3d modeling and homelabbing.   
+- 🌱 I’m currently studying Net+, Python and Linux.
+- 📫 My email is tonyvytuvis at gmail
 
 <!---
 antanasvytuvis/antanasvytuvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

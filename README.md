@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antanasvytuvis
-- 👀 I’m interested in IT, AV, 3d modeling and homelabbing.   
+- 👀 I’m interested in IT, AV, ergo keyboards, 3d modeling and homelabbing.   
 - 🌱 I’m currently studying Net+, Python and Linux.
 - 📫 My email is tonyvytuvis at gmail
 
